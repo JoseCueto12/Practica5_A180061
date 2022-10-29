@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="file:///C:/Users/jose_/Documents/9J/Servicios%20Web/Practica5_A180061/libros.xsl"?>
+<libros>
+   <libro>
+      <titulo>El Nombre del Viento</titulo>
+      <pais>Estados Unidos</pais>
+      <año>2007</año>
+      <autor>Patrick Rothfuss</autor>
+      <editorial>Penguin</editorial>
+   </libro>
+
+   <libro>
+      <titulo>El temor de un hombre sabio</titulo>
+      <pais>Estados Unidos</pais>
+      <año>2011</año>
+      <autor>Patrick Rothfuss</autor>
+      <editorial>DEBOLS!LLO</editorial>
+   </libro>
+
+   <libro>
+      <titulo>La música del silencio</titulo>
+      <pais>Estados Unidos</pais>
+      <año>2014</año>
+      <autor>Patrick Rothfuss</autor>
+      <editorial>DEBOLS!LLO</editorial>
+   </libro>
+
+   <libro>
+      <titulo>Cazadores de Sombras - Ciudad de Huesos</titulo>
+      <pais>Estados Unidos</pais>
+      <año>2007</año>
+      <autor>Cassandra Clare</autor>
+      <editorial>Destino</editorial>
+   </libro>
+
+   <libro>
+      <titulo>Cazadores de Sombras - Ciudad de Ceniza</titulo>
+      <pais>Estados Unidos</pais>
+      <año>2008</año>
+      <autor>Cassandra Clare</autor>
+      <editorial>Destino</editorial>
+   </libro>
+
+   <libro>
+      <titulo>Cazadores de Sombras - Ciudad de Cristal</titulo>
+      <pais>Estados Unidos</pais>
+      <año>2009</año>
+      <autor>Cassandra Clare</autor>
+      <editorial>Destino</editorial>
+   </libro>
+
+   <libro>
+      <titulo>Cazadores de Sombras - Ciudad de los Angeles Caidos</titulo>
+      <pais>Estados Unidos</pais>
+      <año>2011</año>
+      <autor>Cassandra Clare</autor>
+      <editorial>Destino</editorial>
+   </libro>
+
+
+   <libro>
+      <titulo>Cazadores de Sombras - Ciudad de las Almas perdidas</titulo>
+      <pais>Estados Unidos</pais>
+      <año>2012</año>
+      <autor>Cassandra Clare</autor>
+      <editorial>Destino</editorial>
+   </libro>
+
+   <libro>
+      <titulo>Cazadores de Sombras - Ciudad del Fuego Celestial</titulo>
+      <pais>Estados Unidos</pais>
+      <año>2014</año>
+      <autor>Cassandra Clare</autor>
+      <editorial>Destino</editorial>
+   </libro>
+</libros>
